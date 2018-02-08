@@ -1,1 +1,8 @@
-This is a test file
+
+What if I add something up here? 
+
+This is a file.
+
+This is the part where I added some code and deleted some stuff from the orginal text.
+
+It appears that these changes are monitored by the Github tool one a line by line basis. 
